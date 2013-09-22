@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clear",
+				"clearLine"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"event",
+				"eventQueue"
+			],
+			[
+				"un",
+				"unserialize"
+			],
+			[
+				"read",
+				"readFileSync"
+			],
+			[
+				"resume",
+				"resumeArgs"
+			],
+			[
+				"twee",
+				"tweening"
+			],
+			[
+				"t",
+				"tweening"
+			],
+			[
+				"ImageDir",
+				"ImageDirNewIndexer"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"upva",
+				"upvalues"
+			],
+			[
+				"up",
+				"upvalues"
+			],
+			[
+				"instr",
+				"instructionList"
+			],
+			[
+				"cle",
+				"clearLine"
+			],
+			[
+				"unload",
+				"unloadPlugins"
+			],
+			[
+				"reg",
+				"registerUnloadHandler"
+			],
+			[
+				"regi",
+				"registerTicker"
+			],
+			[
+				"regis",
+				"registerCommand"
+			],
+			[
+				"lu",
+				"luvreq"
+			],
+			[
+				"re",
+				"receive"
+			],
+			[
+				"lane",
+				"laneLindas"
+			],
+			[
+				"user",
+				"userMSG"
+			],
+			[
+				"l",
+				"lt"
+			],
+			[
+				"canc",
+				"cancel_test"
+			],
+			[
+				"rec",
+				"receive"
+			],
+			[
+				"irc",
+				"ircsocket"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"sta",
+				"stackSize"
+			],
+			[
+				"stack",
+				"stackPTR"
+			],
+			[
+				"stackSiz",
+				"stackSize"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dwayne/cclua/main.lua",
+		"/home/dwayne/dsbawt/main.lua",
+		"/home/dwayne/dsbawt/plugins/lua.lua",
+		"/home/dwayne/cclua/ultrabios.lua",
+		"/home/dwayne/cclua/lua/rom/apis/rednet",
+		"/home/dwayne/cclua/lua/rom/apis/textutils",
+		"/home/dwayne/cclua/lua/bios.lua",
+		"/home/dwayne/cclua/lua/rom/apis/parallel",
+		"/home/dwayne/cclua/lua/rom/programs/shell",
+		"/home/dwayne/cclua/curses.lua",
+		"/home/dwayne/cclua/native/term.lua",
+		"/home/dwayne/loveOS/main.lua",
+		"/home/dwayne/loveOS/root/lib/gui.lua",
+		"/home/dwayne/loveOS/root/lib/metalib.lua",
+		"/home/dwayne/loveOS/root/lib/tween.lua",
+		"/home/dwayne/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/dwayne/loveOS/root/lib/tween",
+		"/home/dwayne/.ccdesk/computer/0/LuaVM",
+		"/media/dwayne/SliTaz Aircrack-ng LiveCD/spaceshooter/main.lua",
+		"/home/dwayne/dsbawt/perms/Elite6674",
+		"/mnt/koding/server.lua",
+		"/media/dwayne/SliTaz Aircrack-ng LiveCD/spaceshooter/class/Object.lua",
+		"/home/dwayne/luvit/lib/luvit/core.lua",
+		"/media/dwayne/SliTaz Aircrack-ng LiveCD/spaceshooter/class/Vec2.lua",
+		"/media/dwayne/SliTaz Aircrack-ng LiveCD/spaceshooter/class/Entity.lua",
+		"/media/dwayne/SliTaz Aircrack-ng LiveCD/spaceshooter/class/Ship.lua",
+		"/media/dwayne/SliTaz Aircrack-ng LiveCD/spaceshooter/class/EntityList.lua",
+		"/media/dwayne/SliTaz Aircrack-ng LiveCD/spaceshooter/class/Projectile.lua",
+		"/home/dwayne/luvit/lib/luvit/uv.lua",
+		"/home/dwayne/luvit/lib/luvit/utils.lua",
+		"/home/dwayne/dsbawt/plugins/say.lua",
+		"/home/dwayne/dsbawt/plugins/perms.lua",
+		"/home/dwayne/dsbawt/plugins/admin.lua",
+		"/home/dwayne/dsbawt/permsys.lua",
+		"/home/dwayne/dsbawt/perms/ds84182",
+		"/home/dwayne/dsbawt/perms/dsbot\n",
+		"/home/dwayne/dsbawt/pl/compat.lua",
+		"/home/dwayne/dsbawt/pl/utils.lua",
+		"/home/dwayne/dsbawt/plugins_fix/lua.lua",
+		"/home/dwayne/dsbawt/modules/pl/utils.lua",
+		"/home/dwayne/dsbawt/modules/pl/config.lua",
+		"/home/dwayne/dsbawt/modules/pl/compat.lua",
+		"/home/dwayne/dsbawt/modules/pl/init.lua",
+		"/home/dwayne/dsbawt/modules/pl/pretty.lua",
+		"/home/dwayne/luvit/lib/luvit/fs.lua",
+		"/home/dwayne/luvit/lib/luvit/luvit.lua",
+		"/home/dwayne/luvit/tests/test-dgram.lua",
+		"/home/dwayne/luvit/tests/modules/helper.lua",
+		"/home/dwayne/luvit/tests/modules/lib-luvit.lua",
+		"/home/dwayne/luvit/lib/luvit/childprocess.lua",
+		"/home/dwayne/luvit/lib/luvit/module.lua",
+		"/home/dwayne/luvit/lib/luvit/stack.lua",
+		"/home/dwayne/luvit/lib/luvit/json.lua",
+		"/home/dwayne/luvit/lib/luvit/path.lua",
+		"/home/dwayne/luvit/lib/luvit/buffer.lua",
+		"/home/dwayne/luvit/lib/luvit/net.lua",
+		"/home/dwayne/luvit/lib/luvit/tls.lua",
+		"/home/dwayne/luvit/lib/luvit/mime.lua",
+		"/home/dwayne/luvit/lib/luvit/zlib.lua",
+		"/home/dwayne/luvit/lib/luvit/https.lua",
+		"/home/dwayne/luvit/lib/luvit/dns.lua",
+		"/home/dwayne/luvit/lib/luvit/querystring.lua",
+		"/home/dwayne/luvit/lib/luvit/url.lua",
+		"/home/dwayne/luvit/lib/luvit/dgram.lua",
+		"/home/dwayne/luvit/lib/luvit/fiber.lua",
+		"/home/dwayne/luvit/lib/luvit/timer.lua",
+		"/home/dwayne/luvit/lib/luvit/repl.lua",
+		"/home/dwayne/luvit/lib/luvit/http.lua",
+		"/home/dwayne/minimal/main.lua",
+		"/home/dwayne/dsbawt/pl/init.lua",
+		"/home/dwayne/dsbawt/lib/json.lua",
+		"/home/dwayne/.cache/.fr-jO88FC/json4lua-0.9.50/examples/example.lua",
+		"/home/dwayne/dsbawt/perms/Sxw1212",
+		"/home/dwayne/dsbawt/perms/~Sxw1212",
+		"/home/dwayne/LuaPrograms/luaforth/forth/stdwords.lua",
+		"/home/dwayne/LuaPrograms/luaforth/forth/tokenizer.lua",
+		"/home/dwayne/LuaPrograms/luaforth/forth/forth.lua",
+		"/home/dwayne/LuaPrograms/luaforth/main.lua",
+		"/home/dwayne/LuaPrograms/luaforth/forth/recompiler.lua",
+		"/home/dwayne/.ccdesk/computer/0/RUN",
+		"/home/dwayne/.config/sublime-text-2/Packages/ApplySyntax/ApplySyntax.sublime-settings",
+		"/home/dwayne/.ccdesk/computer/0/UNHIBER",
+		"/home/dwayne/.ccdesk/computer/0/DSOS/bin/testhash",
+		"/home/dwayne/.config/sublime-text-2/Packages/User/Lua.sublime-settings",
+		"/home/dwayne/.config/sublime-text-2/Packages/User/Plain text.sublime-settings",
+		"/home/dwayne/.ccdesk/computer/0/DSOS/bin/shell",
+		"/home/dwayne/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/dwayne/.config/sublime-text-2/Packages/User/JSON.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/dwayne/dsbawt"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  ",
+			"print(",
+			",writeErr",
+			"process.stdout:write",
+			"send",
+			"ircsocket",
+			"Doing",
+			"corout",
+			"post++",
+			"prefixexp",
+			"post"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\t",
+			"--print(",
+			"",
+			"io.write",
+			"client"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "cclua.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ccl",
+				"DSOS/kernel/CCLIB"
+			],
+			[
+				"lil",
+				"DSOS/kernel/LiL"
+			],
+			[
+				"bio",
+				"DSOS/emu/bios"
+			],
+			[
+				"st",
+				"DSOS/kernel/STDLIB"
+			],
+			[
+				"",
+				"UNHIBER"
+			],
+			[
+				"te",
+				"DSOS/bin/testhash"
+			],
+			[
+				"shell",
+				"DSOS/bin/shell"
+			],
+			[
+				"lua",
+				"DSOS/bin/lua"
+			],
+			[
+				"run",
+				"RUN"
+			],
+			[
+				"ep",
+				"DSOS/kernel/entrypoint"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
