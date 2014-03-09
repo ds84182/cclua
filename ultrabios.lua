@@ -21,8 +21,6 @@ peripheral.list("right")
 peripheral.call("right", "isWired")
 ]]
 
---We are running on standard lua, not luvit, so we cannot use advanced things!
-
 local coroutine = require "coroutine"
 local oldG = _G
 
